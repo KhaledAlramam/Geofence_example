@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="channel_name">Memoria Channel</string>
+    <string name="channel_description">Memoria Notification channel</string>
+</resources>
